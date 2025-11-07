@@ -10,7 +10,7 @@ public class CalcPi {
 			m = m + 2; // eash time we divide by another 2 
 
 		}
-		System.out.println("pi acording to Java: " + Math.PI + "\npi, approximated:    " + total*4);
+		System.out.println("pi according to Java: " + Math.PI + "\npi, approximated:    " + total*4);
 
 	}
 }
